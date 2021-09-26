@@ -8,6 +8,8 @@ void main () /*main é a função principal do programa executada sempre que o p
 {
     printf("Bem-vindo ao curso de linguagem C!! \n"); 
     /* printf executa a função na tela, 
+    saida de dados- função printf()
+    printf(string_controle_formatação, "argumentos opcional");
     \n significa sequencia de escape pula pra linha de baixo,  
     todos comandos em linguagem c são finalizados com ; */
 
